@@ -5,22 +5,22 @@ import "./styles.css";
 
 const players = [
   {
-    name: "Player 1",
+    name: "Player 01",
     score: 25,
     id: 1
   },
   {
-    name: "Player 2",
+    name: "Player 02",
     score: 28,
     id: 2
   },
   {
-    name: "Player 3",
+    name: "Player 03",
     score: 85,
     id: 3
   },
   {
-    name: "Player 4",
+    name: "Player 04",
     score: 49,
     id: 4
   }
